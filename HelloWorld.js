@@ -6,6 +6,6 @@ var employee = {
     salary: 10000
 };
 
-console.log(employee.name); // John
-console.log(employee.age); // 25
-console.log(employee.salary); // 10000
+console.log(`Hello ${employee.name}`);
+
+
